@@ -13,7 +13,7 @@ We are building **KORE**, a next-generation ERP and data analytics engine design
 
 ## 🚀 Leadership
 * **Rebeca Evangelista Jasso** - FOUNDER & CEO
-* **David [Su Apellido]** - CTO & CO-FOUNDER
+* **David Aguilar Acosta** - CTO & CO-FOUNDER
 
 📫 **Contact:** dev@jassoholdings.com
 🌐 **Parent Company:** www.jassoholdings.com
