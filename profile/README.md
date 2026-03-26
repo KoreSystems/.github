@@ -1,19 +1,33 @@
 # 🎯 KORE SYSTEMS
-*Developing ease of mind.*
+> **Developing ease of mind.**
 
-Welcome to the official engineering and development division of **Jasso Holdings and Ventures**. 
+División de ingeniería de **Jasso Holdings and Ventures**. Creamos software enfocado en la simplicidad, la soberanía de datos y la paz mental del usuario.
 
-We are building **KORE**, a next-generation ERP and data analytics engine designed to automate, optimize, and scale e-commerce operations.
+---
 
-## ⚙️ Tech Stack
-* **Backend:** C#, .NET, Entity Framework Core
-* **Database:** PostgreSQL
-* **Frontend:** Blazor / WPF
-* **Infrastructure:** Cloudflare Zero Trust & Local Server Architecture
+### 🏮 Nuestra Filosofía
+* **Simplicidad:** Interfaces limpias, lógica robusta.
+* **Soberanía:** Infraestructura propia y seguridad *Zero Trust*.
+* **Intención:** Cada línea de código tiene un propósito: reducir el estrés digital.
 
-## 🚀 Leadership
-* **Rebeca Evangelista Jasso** - FOUNDER & CEO
-* **David Aguilar Acosta** - CTO & CO-FOUNDER
+---
 
-📫 **Contact:** dev@jassoholdings.com
-🌐 **Parent Company:** www.jassoholdings.com
+### ⚙️ Tech Stack
+* **Backend:** C# / .NET 10 & Entity Framework Core
+* **Frontend:** Blazor WebAssembly
+* **Database:** PostgreSQL (Dockerized)
+* **Infra:** Cloudflare & Local Server (ThinkStation P320)
+
+---
+
+### 🚀 Leadership
+* **Rebeca Evangelista Jasso** — *Founder & CEO*
+* **David Aguilar Acosta** — *CTO & Co-Founder*
+
+---
+
+📫 **Contacto:** [dev@jassoholdings.com](mailto:dev@jassoholdings.com)  
+🌐 **Matriz:** [jassoholdings.com](http://www.jassoholdings.com)
+
+---
+*© 2026 KORE Systems.*
