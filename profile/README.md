@@ -20,12 +20,6 @@ División de ingeniería de **Jasso Holdings and Ventures**. Creamos software en
 
 ---
 
-### 🚀 Leadership
-* **Rebeca Evangelista Jasso** — *Founder & CEO*
-* **David Aguilar Acosta** — *CTO & Co-Founder*
-
----
-
 📫 **Contacto:** [dev@jassoholdings.com](mailto:dev@jassoholdings.com)  
 🌐 **Matriz:** [jassoholdings.com](http://www.jassoholdings.com)
 
